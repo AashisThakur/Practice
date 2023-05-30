@@ -1,6 +1,6 @@
-import { Item } from "./item.interface";
+// import { Item } from "./item.interface";
 
 
-export interface Items {
-    [key: number] : Item;
-}
+// export interface Items {
+//     [key: number] : Item;
+// }
